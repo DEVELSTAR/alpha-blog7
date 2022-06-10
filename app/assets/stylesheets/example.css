@@ -18,7 +18,8 @@
 }
 
 #home-container {
-  margin-top: 25px;
+  border: 2px solid red;
+  margin-top: 75px;
 }
 
 .jumbotron {
